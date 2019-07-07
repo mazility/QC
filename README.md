@@ -1,2 +1,2 @@
-# QC
-Quantum Computing 
+# Quantum Computing 
+Markowitz Portfolio Optimization
